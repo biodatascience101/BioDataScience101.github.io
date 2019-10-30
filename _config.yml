@@ -1,17 +1,18 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
-lab_name: Morin Laboratory
+title: AI for Immunological Molecules - Marcatili laboratory at Technical University of Denmark
+lab_name: AIM Laboratory
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  AIM lab
+institution: DTU
+email: pamar@dtu.dk
 description: >
-  The Morin Laboratory performs cutting-edge lymphoma research using
-  a combination of dry lab and wet lab experiments.
+  
+The AIM (AI for Immunological Molecules) Laboratory develops state-of-the-art tools for predicting immunogenicity 
+by combining immunological data, deep learning, and molecular simulations. 
 baseurl: ""
-url: "https://morinlab.github.io"
-twitter_username: morinryan
-github_username:  morinlab
+url: "https://marcatililab.github.io"
+#twitter_username: morinryan
+github_username:  marcatililab
 images_dir: "/images/"
 
 # Build settings
