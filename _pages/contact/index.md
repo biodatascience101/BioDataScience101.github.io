@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-toggle: on
+toggle: off
 rank: 7
 ---
 <head>
@@ -10,7 +10,7 @@ rank: 7
 <script src="https://ucarecdn.com/libs/widget/2.10.2/uploadcare.full.min.js" charset="utf-8"></script>
 </head>
 <H3>We always welcome applications for postdoctoral fellowship positions</H3>
-Diversity is an integral part of Canadian history, culture, and identity. In the Morin laboratory, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer. 
+Diversity is an integral part of Canadian history, culture, and identity. In the Morin laboratory, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer.
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="email" name="email" placeholder="Enter your email"><br>
@@ -57,4 +57,3 @@ form.wj-contact input[type="submit"] {
     height: auto;
 }
 </style>
-

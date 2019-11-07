@@ -1,8 +1,19 @@
-- name: XXX
-  description: >
-    ZZZ
-  funding: KKK
-  collaborators: XXX
-  assignees: XXX
-  photo: projects/dhitsig.png
+#- name:
+#  description: >
+#    ZZZ
+#  funding: KKK
+#  collaborators:
+#  assignees:
+#  #photo: projects/dhitsig.png
 
+- name: Statistical Modelling of TCR Repertoires for Immunotherapy and Drug Delievery Systems
+  description: >
+    The aim of this project is disassembling mechanisms of immune system-tumour interaction, in particular to track and understand epitope spreading by means of high throughput sequencing and statistical modelling of T-cell receptor repertoires.
+
+  photo: projects/repertoire_mina_project.png
+
+- name: Neoepitope Prediction
+  description: >
+    Combining Deep Learning and Immunology to create a Neoepitope predictor for improving immunotherapy.
+
+  photo: projects/Tcell.png
