@@ -28,3 +28,8 @@ in: PLOS ONE, vol: 14, issue: 6
 
 Klausen, Michael Schantz ; Jespersen, Martin Closter ; Nielsen, Henrik ; Jensen, Kamilla Kjærgaard ; Jurtz, Vanessa Isabell ; Sønderby, Casper Kaae ; Sommer, Morten Otto Alexander ; Winther, Ole ; Nielsen, Morten ; Petersen, Bent ; Marcatili, Paolo
 in: Proteins: Structure, Function, and Bioinformatics, vol: 87, issue: 6, pages: 520-527
+
+[**The ABCD database: a repository for chemically defined antibodies**](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz714/5549708)
+
+Lima, Wanessa C. ; Gasteiger, Elisabeth ; Marcatili, Paolo ; Duek, Paula ; Bairoch, Amos ; Cosson, Pierre
+in: Nucleic acids research
