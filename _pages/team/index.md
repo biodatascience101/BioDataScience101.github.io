@@ -6,9 +6,11 @@ toggle: on
 rank: 2
 ---
 
-#<div style="margin-bottom: 2em;">
-#    <img src="{{ 'team/team_paolo.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-#</div>
+<!--
+<div style="margin-bottom: 2em;">
+    <img src="{{ 'team/team_paolo.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+</div>
+-->
 
 <div class="lab-wrapper">
     <ul class="lab-list">
