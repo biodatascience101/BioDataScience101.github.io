@@ -7,7 +7,7 @@ rank: 4
 ---
 
 <ul class="post-list">
-    {% for post in site.posts.reverse() %}
+    {% for post in site.posts reversed %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
