@@ -9,7 +9,7 @@ rank: 4
 For more information about the below events, please click the links below or contact **admin@example.com**.
 
 
-### Current event calendar:
+### 2020 event calendar:
 - DTU Pilot event, Copenhagen 2020 - February 2020
 - SDC Pilot event, Copenhagen 2020 - April 2020
 - 1st BioDataScience101 Workshop, Copenhagen - June 2020
