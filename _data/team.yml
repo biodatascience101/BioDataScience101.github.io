@@ -9,19 +9,10 @@
   twitter: https://twitter.com/ai_mlab
   bio: >
    I am a bioinformatician and computational biologist with an extensive expertise in the following areas:
-
      - Structural Bioinformatics
-
-
      - Machine Learning
-
-
      - Immunological Bioinformatics
-
-
      - Immunotherapy
-
-
    I have a background in programming, robotics, control and systems theory, and a deep understanding of biology and immunology.
    I am  excited by anything that  combines 2 or more of the following things: immunology, machine learning, protein structure prediction, obscure avantgard art, fancy cocktails. Probably not in this order.
 
@@ -39,7 +30,7 @@
   bio: >
     A bit about Anders
 
-  photo: team/Anders_img.jpg
+  photo: team/anders_profile2.jpg
 
 - name: Magnus Haraldson Høie
   is_pi: False
@@ -52,7 +43,7 @@
   twitter: https://twitter.com/magnushoie
   bio: >
     A bit about magnus
-  photo: team/Magnus_img.jpg
+  photo: team/magnus_profile.jpg
   
 - name: Andreas Fønss Møller
   is_pi: False
@@ -65,7 +56,7 @@
   #twitter: https://twitter.com/
   bio: >
     A bit about Andreas
-  photo: team/Andreas_img.jpg
+  photo: team/andreas_profile.jpg
 
 #- name: ZZZ
 #  is_pi: False
