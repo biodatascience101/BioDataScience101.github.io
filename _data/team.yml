@@ -8,14 +8,10 @@
   github: https://github.com/marcatililab
   twitter: https://twitter.com/ai_mlab
   bio: >
-   I am a bioinformatician and computational biologist with an extensive expertise in the following areas:
-     - Structural Bioinformatics
-     - Machine Learning
-     - Immunological Bioinformatics
-     - Immunotherapy
-   I have a background in programming, robotics, control and systems theory, and a deep understanding of biology and immunology.
-   I am  excited by anything that  combines 2 or more of the following things: immunology, machine learning, protein structure prediction, obscure avantgard art, fancy cocktails. Probably not in this order.
-
+  Paolo Marcatili is a bioinformatician and computational biologist with extensive expertise
+  within Structural Bioinformatics, Machine Learning, Immunological Bioinformatics and Immunotherapy.
+  Paolo has a background in programming, robotics, control and systems theory,
+  and a deep understanding of biology and immunology.
   photo: team/paolo_img.jpg
 
 - name: Anders Gorm Pedersen, PhD
@@ -42,7 +38,10 @@
   github: https://github.com/Magnushhoie
   twitter: https://twitter.com/magnushoie
   bio: >
-    A bit about magnus
+    Magnus is a bioinformatician and PhD student with experience within immunoinformatics,
+    next-generation sequencing analysis and machine-learning.
+    He currently works on prediction of protein-variant effects at Copenhagen University´s
+    Linderstrøm-Lang centre for protein research.
   photo: team/magnus_profile3.jpg
   
 - name: Andreas Fønss Møller
