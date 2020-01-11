@@ -6,14 +6,16 @@
 #  assignees:
 #  #photo: projects/dhitsig.png
 
-- name: Statistical Modelling of TCR Repertoires for Immunotherapy and Drug Delievery Systems
+- name: Module 1: Introduction to data modelling
   description: >
-    The aim of this project is disassembling mechanisms of immune system-tumour interaction, in particular to track and understand epitope spreading by means of high throughput sequencing and statistical modelling of T-cell receptor repertoires.
+    This module covers dataset handling and normalization in Pandas, PCA-analysis and statistical significance.
+    The case covers quantifying relative protein levels in malaria-infected mice by Tiberti, N et al Scientific Reports 2016.
 
   photo: projects/repertoire_mina_project.png
 
-- name: Neoepitope Prediction
+- name: Module 2: Biological sequence data-visualization
   description: >
-    Combining Deep Learning and Immunology to create a Neoepitope predictor for improving immunotherapy.
+    This module covers efficient data processing in Numpy, visualization of biological sequences and graphing in Seaborn and Matplotlib.
+    The case covers data bacterial sequence temperature data compiled by the iGEM Potsdam team from the Bacterial Diversity Metadatabase.
 
   photo: projects/Tcell.png
