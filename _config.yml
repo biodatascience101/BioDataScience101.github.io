@@ -8,7 +8,8 @@ email: pamar@dtu.dk
 description: 
  BioDataScience101 is a Sino-Danish Center sponsored project dedicated to developing
  biological data science teaching materials for industry professionals,
- academics and recent graduates. International workshops are held twice a year in Denmark and China.<
+ academics and recent graduates.
+ <
 baseurl: ""
 url: "https://biodatascience101.github.io"
 #twitter_username: morinryan
