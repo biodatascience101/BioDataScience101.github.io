@@ -6,14 +6,14 @@
 #  assignees:
 #  #photo: projects/dhitsig.png
 
-- name: Module 1: Introduction to data modelling
+- name: Module 1\: Introduction to data modelling
   description: >
     This module covers dataset handling and normalization in Pandas, PCA-analysis and statistical significance. The case covers quantifying relative protein levels in malaria-infected mice by Tiberti, N et al Scientific Reports 2016.
 
 
   photo: projects/module_1.png
 
-- name: Module 2: Biological sequence data-visualization
+- name: Module 2\: Biological sequence data-visualization
   description: >
     This module covers efficient data processing in Numpy, visualization of biological sequences and graphing in Seaborn and Matplotlib. The case covers data bacterial sequence temperature data compiled by the iGEM Potsdam team from the Bacterial Diversity Metadatabase.
 
