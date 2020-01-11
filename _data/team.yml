@@ -32,22 +32,22 @@
   is_current: True
   position: Professor
   orcid:  https://orcid.org/0000-0001-9650-8965
-  scholar: https://scholar.google.dk/citations?user=iANj4KkAAAAJ&hl=da
+  scholar: https://scholar.google.dk/citations?user=iANj4KkAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Anders_Pedersen4
-  #github: https://github.com/alschaap
- # twitter: https://twitter.com/SchaapJohansen
+  #github: https://github.com/
+ # twitter: https://twitter.com/
   bio: >
     A bit aboit Anders
 
-  #photo: team/Anders_img.jpg
+  photo: team/Anders_img.jpg
 
 - name: Magnus Haraldson Høie
   is_pi: False
   is_current: True
   position: Research Assistant
-  #orcid:  https://orcid.org/0000-0002-6027-7648
-  #scholar: https://scholar.google.ca/citations?hl=en&user=N8TDDgIAAAAJ
-  #researchgate: https://www.researchgate.net/profile/Milena_Vujovic
+  #orcid:  https://orcid.org/
+  #scholar: https://scholar.google.ca/citations?hl=en&user=
+  #researchgate: https://www.researchgate.net/profile/
   github: https://github.com/Magnushhoie
   twitter: https://twitter.com/magnushoie
   bio: >
@@ -59,10 +59,10 @@
   is_current: True
   position: Research Assistant
   orcid:  https://orcid.org/0000-0002-4073-5568
-  #scholar: https://scholar.google.ca/citations?hl=en&user=N8TDDgIAAAAJ
-  #researchgate: https://www.researchgate.net/profile/Milena_Vujovic
+  #scholar: https://scholar.google.ca/citations?hl=en&user=
+  #researchgate: https://www.researchgate.net/profile/
   github: https://github.com/foenssmoeller
-  twitter: https://twitter.com/magnushoie
+  #twitter: https://twitter.com/
   bio: >
     A bit aboit Andreas
   photo: team/Andreas_img.jpg
