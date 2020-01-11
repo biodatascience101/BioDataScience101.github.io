@@ -3,7 +3,7 @@ layout: page
 title: About Us
 permalink: /about/
 toggle: on
-rank: 2
+rank: 5
 ---
 
 <!--
