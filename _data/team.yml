@@ -8,7 +8,10 @@
   github: https://github.com/marcatililab
   twitter: https://twitter.com/ai_mlab
   bio: >
-    A bit about Anders test.
+    Paolo Marcatili is a bioinformatician and computational biologist with extensive expertise
+    within Structural Bioinformatics, Machine Learning, Immunological Bioinformatics and Immunotherapy.
+    Paolo has a background in programming, robotics, control and systems theory,
+    and a deep understanding of biology and immunology.
   
   photo: team/paolo_img.jpg
 
@@ -22,7 +25,9 @@
   #github: https://github.com/
  # twitter: https://twitter.com/
   bio: >
-    A bit about Anders
+    Anders Gorm Pedersen is a professor and head of section of Bioinformatics at DTU Health Tech.
+    His work focuses on Bayesian statistical modelling, microbiome analysis and genome-wide association studies,
+    and molecular evolution of pathogenic organism.
 
   photo: team/anders_profile2.jpg
 
@@ -36,7 +41,10 @@
   github: https://github.com/Magnushhoie
   twitter: https://twitter.com/magnushoie
   bio: >
-    A bit about Anders
+    Magnus is a bioinformatician and PhD student with experience within immunoinformatics,
+    next-generation sequencing analysis and machine-learning.
+    He currently works on prediction of protein-variant effects at Copenhagen University´s
+    Linderstrøm-Lang centre for protein research.
     
   photo: team/magnus_profile3.jpg
   
