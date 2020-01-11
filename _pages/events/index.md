@@ -16,7 +16,7 @@ For more information about the below events, please click the links below or con
 - 2nd BioDataScience101 Workshop, Beijing - September 2020
 - 3rd BioDataScience101 Workshop, Bangalore - November 2020
 
-
+<!--
 <ul class="post-list">
     {% for post in site.posts reversed %}
       <li>
@@ -28,5 +28,6 @@ For more information about the below events, please click the links below or con
       </li>
     {% endfor %}
   </ul>
+-->
 
 
