@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
-toggle: off
+toggle: on
 rank: 5
 ---
 
