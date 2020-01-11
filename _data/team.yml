@@ -25,38 +25,47 @@
    I have a background in programming, robotics, control and systems theory, and a deep understanding of biology and immunology.
    I am  excited by anything that  combines 2 or more of the following things: immunology, machine learning, protein structure prediction, obscure avantgard art, fancy cocktails. Probably not in this order.
 
-  #photo: team/paolo_img.jpg
-  photo: team/paolo_2019.gif
+  photo: team/paolo_img.jpg
 
-- name: Test Test Testing Test
+- name: Anders Gorm Pedersen, PhD
+  is_pi: True
+  is_current: True
+  position: Professor
+  orcid:  https://orcid.org/0000-0001-9650-8965
+  scholar: https://scholar.google.dk/citations?user=iANj4KkAAAAJ&hl=da
+  researchgate: https://www.researchgate.net/profile/Anders_Pedersen4
+  #github: https://github.com/alschaap
+ # twitter: https://twitter.com/SchaapJohansen
+  bio: >
+    A bit aboit Anders
+
+  #photo: team/Anders_img.jpg
+
+- name: Magnus Haraldson Høie
   is_pi: False
   is_current: True
-  position: PhD student
-  orcid:  https://orcid.org/0000-0003-2428-6835
-#  scholar: https://scholar.google.ca/citations?user=PA02gIYAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Anna_Lisa_Schaap-Johansen
-  github: https://github.com/alschaap
-  twitter: https://twitter.com/SchaapJohansen
+  position: Research Assistant
+  #orcid:  https://orcid.org/0000-0002-6027-7648
+  #scholar: https://scholar.google.ca/citations?hl=en&user=N8TDDgIAAAAJ
+  #researchgate: https://www.researchgate.net/profile/Milena_Vujovic
+  github: https://github.com/Magnushhoie
+  twitter: https://twitter.com/magnushoie
   bio: >
-    Bioinformatician with a background in omics, Biochemistry, Molecularbiology and Chemistry.
-    My latest research involved biomarker discovery for skin cancer, specifically Acral Lentiginous Melanoma, done using multiomics data. The work was conducted on Chinese patients, and was a collaboration between China and Denmark.
-    My current research goal is to combine Deep Learning and Immunology to improve neoepitope prediction. This research will involve multiomics data and the combination of the data to strengthen prediction. This work will hopefully improve immunotherapy and enable us to cure cancer even at late stages.
-
-  photo: team/Annalisa_img.jpg
-
-- name: Milena Vujovic
+    A bit about magnus
+  photo: team/Magnus_img.jpg
+  
+- name: Andreas Fønss Møller
   is_pi: False
   is_current: True
-  position: PhD student
-  orcid:  https://orcid.org/0000-0002-6027-7648
-  scholar: https://scholar.google.ca/citations?hl=en&user=N8TDDgIAAAAJ
-  researchgate: https://www.researchgate.net/profile/Milena_Vujovic
-  github: https://github.com/sciencisto
-  twitter: https://twitter.com/sciencisto
+  position: Research Assistant
+  orcid:  https://orcid.org/0000-0002-4073-5568
+  #scholar: https://scholar.google.ca/citations?hl=en&user=N8TDDgIAAAAJ
+  #researchgate: https://www.researchgate.net/profile/Milena_Vujovic
+  github: https://github.com/foenssmoeller
+  twitter: https://twitter.com/magnushoie
   bio: >
-    Former chemist, aspiring bioinformatician. Currently applying my diverging mix of skills behind a computer screen, day by day more entangled in deciphering immunological abbreviations, all the while trying to understand T cell receptor repertoires. My PhD project “Statistical Modelling of TCR Repertoires for Immunotherapy and Drug Delievery” is concerned with understanding tumour-immunity interactions. Particularly I’m interested in illuminating mechanisms of epitope spreading utilising high-throughput sequencing data and constructing statistical models of T-cell receptor repertoires. The final goal is attempting a framework for rational selection of combination therapy by interpreting cancer immunity in individuals, thus taking the next step in personalized medicine.
-
-  photo: team/Mina_img.jpg
+    A bit aboit Andreas
+  photo: team/Andreas_img.jpg
 
 #- name: ZZZ
 #  is_pi: False
