@@ -7,9 +7,8 @@ institution: SDC
 email: pamar@dtu.dk
 description: 
  BioDataScience101 is a Sino-Danish Center sponsored project dedicated to developing
- biological data science teaching materials for industry professionals,
- academics and recent graduates.
- <
+ biological data science teaching materials for industry professionals and
+ academics.
 baseurl: ""
 url: "https://biodatascience101.github.io"
 #twitter_username: morinryan
