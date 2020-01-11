@@ -1,18 +1,18 @@
 # Site settings
-title: AI for Immunological Molecules - Marcatili laboratory at Technical University of Denmark
-lab_name: AIM Laboratory
+title: BioDataScience101 - Cellular programming made easy
+lab_name: BioDataScience101
 author: >
-  AIM lab
-institution: DTU
+  BioDataScience101
+institution: SDC
 email: pamar@dtu.dk
-description: >
- The BioDataScience101 workshop develops teaching materials for 
- #The AIM (AI for Immunological Molecules) Laboratory develops state-of-the-art tools for predicting immunogenicity 
- #by combining immunological data, deep learning, and molecular simulations. 
+description: 
+ BioDataScience101 is a Sino-Danish Center sponsored project dedicated to developing
+ biological data science teaching materials for industry professionals,
+ academics and recent graduates. International workshops are held twice a year in Denmark and China.<
 baseurl: ""
 url: "https://biodatascience101.github.io"
 #twitter_username: morinryan
-github_username:  marcatililab
+github_username:  biodatascience101
 images_dir: "/images/"
 
 # Build settings
