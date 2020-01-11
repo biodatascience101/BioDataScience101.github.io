@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Events
+permalink: /events/
 toggle: on
-rank: 5
+rank: 4
 ---
 
 <ul class="post-list">
@@ -18,4 +18,4 @@ rank: 5
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
