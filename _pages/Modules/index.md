@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-permalink: /projects/
+title: Modules
+permalink: /Modules/
 toggle: on
 rank: 1
 ---
