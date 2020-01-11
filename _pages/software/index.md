@@ -2,7 +2,7 @@
 layout: page
 title: Software
 permalink: /software/
-toggle: on
+toggle: off
 rank: 3
 ---
 
