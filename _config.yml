@@ -6,10 +6,11 @@ author: >
 institution: DTU
 email: pamar@dtu.dk
 description: >
- The AIM (AI for Immunological Molecules) Laboratory develops state-of-the-art tools for predicting immunogenicity 
- by combining immunological data, deep learning, and molecular simulations. 
+ The BioDataScience101 workshop develops teaching materials for 
+ #The AIM (AI for Immunological Molecules) Laboratory develops state-of-the-art tools for predicting immunogenicity 
+ #by combining immunological data, deep learning, and molecular simulations. 
 baseurl: ""
-url: "https://marcatililab.github.io"
+url: "https://biodatascience101.github.io"
 #twitter_username: morinryan
 github_username:  marcatililab
 images_dir: "/images/"
