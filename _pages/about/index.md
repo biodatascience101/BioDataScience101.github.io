@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-permalink: /team/
+title: About Us
+permalink: /about/
 toggle: on
 rank: 2
 ---
