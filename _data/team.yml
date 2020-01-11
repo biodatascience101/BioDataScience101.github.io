@@ -28,7 +28,7 @@
   photo: team/paolo_img.jpg
 
 - name: Anders Gorm Pedersen, PhD
-  is_pi: True
+  is_pi: False
   is_current: True
   position: Professor
   orcid:  https://orcid.org/0000-0001-9650-8965
