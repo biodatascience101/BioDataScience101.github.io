@@ -3,7 +3,7 @@ layout: page
 title: Jupyter Server
 permalink: /server/
 toggle: on
-rank: 6
+rank: 5
 ---
 
 <h3> <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h3>
