@@ -19,7 +19,7 @@ We are excited to launch our first Copenhagen Biodatascience Pilot Workshop. If 
 You just need a computer, a browser, and the desire to learn how to navigate through complex biological and clinical datasets to get the most out of them!
 
 <div style="margin-bottom: 50px;">
-    <img class="float-center" width="80%"  src="{{ 'schedule2.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img class="float-center" width="80%"  src="{{ 'schedule3.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
 ### 2020 event calendar:
@@ -30,18 +30,6 @@ You just need a computer, a browser, and the desire to learn how to navigate thr
 - 3rd BioDataScience101 Workshop, Bangalore - November 2020
 
 For more information about our events, please contact Associate Professor Paolo Marcatili at **pamar@dtu.dk**.
-<!--
-<ul class="post-list">
-    {% for post in site.posts reversed %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
--->
 
 
