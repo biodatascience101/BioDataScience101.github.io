@@ -12,11 +12,11 @@ rank: 2
 
 
 
-When: March 26, 2020  from 09.00 to 17.30
+<b>When:</b> March 26, 2020  from 09.00 to 17.30
 <br />
-Where: DTU Lyngby, building 101, meeting room S09
+<b>Where:</b> DTU Lyngby, building 101, meeting room S09
 <br />
-Why: Introducing our new BioDataScience course
+<b>Why:</b> Introducing our new BioDataScience course
     
 We are excited to launch our first Copenhagen Biodatascience Pilot Workshop. If you are working with biological and clinical data, and want to learn how to use data science techniques to analyse, visualize and extract information, you need to attend our workshop. 
 <br />
