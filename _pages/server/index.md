@@ -5,7 +5,10 @@ permalink: /server/
 toggle: on
 rank: 5
 ---
-
+<br>
+<br>
+<br>
+<br>
 
 <div style="margin-bottom: 50px;">
   <p>
@@ -16,10 +19,14 @@ rank: 5
 </div>
 <br>
 <br>
+<br>
+<br>
 
 <h3> <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h3>
 
 
+<br>
+<br>
 <br>
 <br>
 #### The JupyterHub web-servers can currently be accessed at:
