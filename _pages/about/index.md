@@ -1,9 +1,9 @@
 ---
 layout: page
-title: AboutUs
+title: About
 permalink: /about/
 toggle: on
-rank: 5
+rank: 2
 ---
 
 <!--
