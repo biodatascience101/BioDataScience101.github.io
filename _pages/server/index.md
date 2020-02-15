@@ -6,8 +6,6 @@ toggle: on
 rank: 5
 ---
 <br>
-
-
 <div style="margin-bottom: 50px;">
   <p>
     <a href="https://www.biodatascience.io">
@@ -15,14 +13,9 @@ rank: 5
     </a>
   </p>
 </div>
-<br>
-
-
 <h3> <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h3>
 
-
 <br>
-
 #### The JupyterHub web-servers can currently be accessed at:
   - **Server 1:** <a href="https://www.biodatascience.io"> biodatascience.io</a>
   - **Server 2:** ec2-13-128-21-83.eu-west-3.compute.amazonaws.com (offline)
