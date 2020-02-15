@@ -8,8 +8,8 @@ rank: 4
 
 <h3> <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h3>
 <br>
-<div>
-    <img class="float-right" width="80%" src="{{ 'server/JL.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+<div style="margin-bottom: 50px;">
+    <img class="float-center" width="80%"  src="{{ 'server/JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
 
