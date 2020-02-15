@@ -2,7 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
-registration_link: forms.google.com/example
+registration_link: https://www.forms.google.com/example
 toggle: on
 rank: 2
 ---
@@ -19,7 +19,7 @@ We are excited to launch our first Copenhagen Biodatascience Pilot Workshop. If 
 <br />
 All you need is a computer, a browser, and the desire to learn how to navigate through complex biological and clinical datasets to get the most out of them.
 
-<b> <a href="{{page.registration_link}}">Registration link: forms.google.com/example </a></b>
+<b> <a href="{{registration_link}}">Registration link: forms.google.com/example </a></b>
 
 <div style="margin-bottom: 50px;">
     <img class="float-center" width="80%"  src="{{ 'schedule3.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
