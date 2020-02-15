@@ -7,11 +7,8 @@ toggle: on
 rank: 2
 ---
 
-<blockquote cite="https://www.huxley.net/bnw/four.html">
-    <p>Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.</p>
-    <footer>—Aldous Huxley, <cite>Brave New World</cite></footer>
-</blockquote>
-
+<blockquote>
+    <p>
 
 <b> <a href="{{page.event_page}}">1st Biodatascience Pilot Workshop</a></b>
 <br />
@@ -30,6 +27,9 @@ All you need is a computer, a browser, and the desire to learn how to navigate t
 <div style="margin-bottom: 50px;">
     <img class="float-center" width="80%"  src="{{ 'schedule3.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
+
+</p>
+</blockquote>
 
 ### 2020 event calendar:
 - DTU Pilot event, Copenhagen 2020 - March 16th 2020
