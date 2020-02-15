@@ -1,7 +1,6 @@
 ---
 layout: page
 title: <a href="{{https://biodatascience.io}}">Jupyter Server</a>
-permalink: /server/
 toggle: on
 rank: 3
 ---
@@ -14,4 +13,4 @@ rank: 3
 
 Please contact your class instructor for username and password.
 
-u1
+u2
