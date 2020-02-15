@@ -2,7 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
-toggle: off
+toggle: on
 rank: 5
 ---
 
