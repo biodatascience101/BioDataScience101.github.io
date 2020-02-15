@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jupyter Server
+title: Server
 permalink: /server/
 toggle: on
 rank: 5
