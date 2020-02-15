@@ -22,9 +22,6 @@ You just need a computer, a browser, and the desire to learn how to navigate thr
     <img class="float-center" width="80%"  src="{{ 'schedule2.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
-For more information about the below events, please click the links below or contact **admin@example.com**.
-
-
 ### 2020 event calendar:
 - DTU Pilot event, Copenhagen 2020 - February 2020
 - SDC Pilot event, Copenhagen 2020 - April 2020
@@ -32,6 +29,7 @@ For more information about the below events, please click the links below or con
 - 2nd BioDataScience101 Workshop, Beijing - September 2020
 - 3rd BioDataScience101 Workshop, Bangalore - November 2020
 
+For more information about our events, please contact Associate Professor Paolo Marcatili at **pamar@dtu.dk**.
 <!--
 <ul class="post-list">
     {% for post in site.posts reversed %}
