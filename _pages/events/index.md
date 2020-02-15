@@ -20,7 +20,7 @@ You just need a computer, a browser, and the desire to learn how to navigate thr
 
 Schedule:
 <div style="margin-bottom: 50px;">
-    <img class="float-center" width="50%" src="{{ 'images/schedule2.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img class="float-center" width="50%" src="{{ 'images/schedule2.png' | prepend: site.baseurl }}" />
 </div>
 
 For more information about the below events, please click the links below or contact **admin@example.com**.
