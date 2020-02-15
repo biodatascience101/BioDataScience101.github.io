@@ -10,7 +10,7 @@ rank: 5
 <p>
 
 <a href="https://www.biodatascience.io">
-<img  src="{{ 'JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" width="540%">
+<img  src="{{ 'JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" width="60%">
 </a>
 </p>
 
