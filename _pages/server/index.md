@@ -1,5 +1,6 @@
 ---
 layout: page
+othersite: http://example.com
 title: <a href="{{page.othersite}}">Jupyter Server</a>
 toggle: on
 rank: 3
