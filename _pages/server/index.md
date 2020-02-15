@@ -3,7 +3,6 @@ layout: page
 othersite: http://www.biodatascience.io
 title: Jupyter Server
 permalink: /server/
-#title: <a href="{{page.othersite}}">Jupyter Server</a>
 toggle: on
 rank: 5
 ---
