@@ -7,11 +7,12 @@ toggle: on
 rank: 2
 ---
 
+<b> <a href="{{page.event_page}}">1st Biodatascience Pilot Workshop</a></b>
+<br />
+
 <blockquote>
     <p>
 
-<b> <a href="{{page.event_page}}">1st Biodatascience Pilot Workshop</a></b>
-<br />
 When: March 26, 2020  from 09.00 to 17.30
 <br />
 Where: DTU Lyngby, building 101, meeting room S09
