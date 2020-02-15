@@ -19,7 +19,7 @@ images_dir: "/images/"
 markdown: kramdown
 include: ["_pages"]
 permalink: /:title/
-# serverlink: [JupyterServer](https://www.biodatascience101.io)
+serverlink: https://www.biodatascience101.io
 
 #plugins for search engine optimization
 plugins:
