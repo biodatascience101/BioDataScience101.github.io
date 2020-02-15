@@ -2,6 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
+registration_link: forms.google.com/example
 toggle: on
 rank: 2
 ---
@@ -15,7 +16,9 @@ Why: Introducing our new BioDataScience course
     
 We are excited to launch our first Copenhagen Biodatascience Pilot Workshop. If you are working with biological and clinical data, and want to learn how to use data science techniques to analyse, visualize and extract information, you need to attend our workshop. 
 <br />
-You just need a computer, a browser, and the desire to learn how to navigate through complex biological and clinical datasets to get the most out of them!
+All you need is a computer, a browser, and the desire to learn how to navigate through complex biological and clinical datasets to get the most out of them.
+
+<b> <a href="{{page.registration_link}}">Registration link: forms.google.com/example </a></b>
 
 <div style="margin-bottom: 50px;">
     <img class="float-center" width="80%"  src="{{ 'schedule3.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
