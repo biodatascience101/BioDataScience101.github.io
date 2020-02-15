@@ -8,13 +8,12 @@ rank: 5
 
 <h3> <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h3>
 
-
-
 <p>
-  <a hef="https://www.biodatascience.io">
-    <img class="float-center" width="20%"  src="{{ 'JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" >
-  </a>
+An image as a link: <a href="https://www.biodatascience.io">
+<img  src=src="{{ 'JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" width="100" height="100">
+</a>
 </p>
+
 
 
 
