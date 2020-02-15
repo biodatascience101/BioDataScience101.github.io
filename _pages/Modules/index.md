@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching modules
+title: Modules
 permalink: /Modules/
 toggle: on
 rank: 4
