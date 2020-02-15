@@ -3,7 +3,7 @@ layout: page
 title: Teaching modules
 permalink: /Modules/
 toggle: on
-rank: 5
+rank: 4
 ---
 
 
