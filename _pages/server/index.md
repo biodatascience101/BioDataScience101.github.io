@@ -1,10 +1,14 @@
 ---
 layout: page
 othersite: http://example.com
-title: <a href="{{page.othersite}}">Jupyter Server</a>
+title: Jupyter Server
+permalink: /server/
+#title: <a href="{{page.othersite}}">Jupyter Server</a>
 toggle: on
 rank: 3
 ---
+
+<a href="{{page.othersite}}">visit other site</a>
 
 # The web-servers can currently be accessed at:
   - **Server 1:** ec2-15-236-0-217.eu-west-3.compute.amazonaws.com
