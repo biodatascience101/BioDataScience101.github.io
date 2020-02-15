@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Jupyter Server
-permalink: /server/
+#permalink: /server/
+permalink: http://biodatascience.io
 toggle: on
 rank: 3
 ---
