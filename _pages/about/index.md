@@ -20,7 +20,9 @@ We believe that by focusing on the right fundamental workflows and working close
 
 The Biodatascience101 project was started in September 2019, led by Paolo Marcatili, Magnus Haraldson Høie and Andreas Fønns Møller. 
 
-### Our team
+<br />
+<br />
+# Our team:
 <div class="lab-wrapper">
     <ul class="lab-list">
     <!-- Current PIs -->
