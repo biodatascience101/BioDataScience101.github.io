@@ -14,13 +14,12 @@ rank: 2
 <br />
 <b> Why: Introducing our new BioDataScience course. </b>
     
-We are happy to present you our BioDataScience Workshop. If you work with biological and clinical data, and want to learn how to use data science techniques to analyse, visualise, extract information, and store your data in a simple and effective way, you need to attend our workshop!
+We are excited to launch our first Copenhagen Biodatascience Pilot Workshop. If you are working with biological and clinical data, and want to learn how to use data science techniques to analyse, visualize and extract information, you need to attend our workshop. 
 <br />
 You just need a computer, a browser, and the desire to learn how to navigate through complex biological and clinical datasets to get the most out of them!
 
-Schedule:
 <div style="margin-bottom: 50px;">
-    <img class="float-center" width="50%"  src="{{ 'schedule2.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img class="float-center" width="80%"  src="{{ 'schedule2.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
 For more information about the below events, please click the links below or contact **admin@example.com**.
