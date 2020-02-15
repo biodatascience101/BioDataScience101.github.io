@@ -8,7 +8,7 @@ toggle: on
 rank: 3
 ---
 
-### <a href="{{page.othersite}}">Connect to Jupyterhub main server (biodatascience.io)</a>
+##### <a href="{{page.othersite}}">Connect to Jupyterhub main server (biodatascience.io)</a>
 
 #### The JupyterHub web-servers can currently be accessed at:
   - **Server 1:** <a href="{{page.othersite}}"> biodatascience.io</a>
