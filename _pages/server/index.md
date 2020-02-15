@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jupyter Server
+title: <a href="{{https://biodatascience.io}}">Jupyter Server</a>
 permalink: /server/
 toggle: on
 rank: 3
