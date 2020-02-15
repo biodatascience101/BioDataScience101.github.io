@@ -6,7 +6,7 @@ toggle: on
 rank: 50
 ---
 
-<h1 > <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h1>
+<h2> <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h2>
 
 #### The JupyterHub web-servers can currently be accessed at:
   - **Server 1:** <a href="https://www.biodatascience.io"> biodatascience.io</a>
