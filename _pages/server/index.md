@@ -1,10 +1,11 @@
 ---
 layout: page
-othersite: http://www.biodatascience.io
+permalink: server
+#othersite: http://www.biodatascience.io
 title: Jupyter Server
 permalink: /server/
 toggle: on
-rank: 5
+rank: 8
 ---
 
 ##### <a href="{{page.othersite}}">Connect to Jupyterhub main server (biodatascience.io)</a>
