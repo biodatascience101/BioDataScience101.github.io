@@ -2,7 +2,7 @@
 layout: page
 title: Jupyter Server
 permalink: /server/
-toggle: off
+toggle: on
 rank: 6
 ---
 
