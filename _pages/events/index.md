@@ -3,7 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 toggle: on
-rank: 3
+rank: 2
 ---
 
 For more information about the below events, please click the links below or contact **admin@example.com**.
