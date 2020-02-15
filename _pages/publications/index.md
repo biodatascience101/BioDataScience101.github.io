@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-toggle: off
+toggle: on
 rank: 12
 ---
 
