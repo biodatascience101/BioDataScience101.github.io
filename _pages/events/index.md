@@ -7,8 +7,6 @@ toggle: on
 rank: 2
 ---
 
-<div style="background-color:black;color:white;padding:20px;">
-
 
 <b> <a href="{{page.event_page}}">1st Biodatascience Pilot Workshop</a></b>
 <br />
@@ -28,7 +26,6 @@ All you need is a computer, a browser, and the desire to learn how to navigate t
     <img class="float-center" width="80%"  src="{{ 'schedule3.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
-</div> 
 ### 2020 event calendar:
 - DTU Pilot event, Copenhagen 2020 - March 16th 2020
 - SDC Pilot event, Copenhagen 2020 - ultimo April 2020
