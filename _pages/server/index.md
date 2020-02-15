@@ -7,6 +7,11 @@ rank: 4
 ---
 
 <h3> <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h3>
+<br>
+<div>
+    <img class="float-right" width="80%" src="{{ 'server/JL.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+</div>
+
 
 #### The JupyterHub web-servers can currently be accessed at:
   - **Server 1:** <a href="https://www.biodatascience.io"> biodatascience.io</a>
