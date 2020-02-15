@@ -5,7 +5,7 @@ title: Jupyter Server
 permalink: /server/
 #title: <a href="{{page.othersite}}">Jupyter Server</a>
 toggle: on
-rank: 3
+rank: 5
 ---
 
 ##### <a href="{{page.othersite}}">Connect to Jupyterhub main server (biodatascience.io)</a>
