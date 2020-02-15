@@ -10,7 +10,7 @@ rank: 5
 
 <p>
 An image as a link: <a href="https://www.biodatascience.io">
-<img  src="{{ 'server/JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" width="100" height="100">
+<img  src="{{ 'JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" width="100" height="100">
 </a>
 </p>
 
