@@ -2,14 +2,19 @@
 layout: page
 title: Jupyter Server
 permalink: /server/
-toggle: on
-rank: 5
+toggle: off
+rank: 6
 ---
 
 <h3> <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h3>
-<br>
 
-<p><a   href="https://www.biodatascience.io"> <img class="float-center" width="20%"  src="{{ 'JH.png' | prepend: site.images_dir | prepend: site.baseurl }}"  /></a></p>
+
+
+<p>
+  <a hef="https://www.biodatascience.io">
+    <img class="float-center" width="20%"  src="{{ 'JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" >
+  </a>
+</p>
 
 
 
