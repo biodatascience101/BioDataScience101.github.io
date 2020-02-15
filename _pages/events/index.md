@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 registration_link: https://www.forms.google.com/example
 toggle: on
-rank: 2
+rank: 5
 ---
 
 <b> <a href="{{page.event_page}}">1st Biodatascience Pilot Workshop</a></b>
