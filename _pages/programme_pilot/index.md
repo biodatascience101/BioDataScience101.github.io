@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Events
+title: BioDatScience pilot workshop, March 26
 permalink: /events/
 registration_link: https://www.forms.google.com/example
 toggle: on
-rank: 2
+rank: 6
 ---
 
 <b> <a href="{{page.event_page}}">1st Biodatascience Pilot Workshop</a></b>

@@ -3,12 +3,11 @@ title: BioDataScience101 - Cellular programming made easy
 lab_name: BioDataScience101
 author: >
   BioDataScience101
-institution: SDC
+institution: DTU & SDC
 email: pamar@dtu.dk
 description: 
- BioDataScience101 is a Sino-Danish Center sponsored project dedicated to developing
- biological data science teaching materials for industry professionals and
- academics.
+ BioDataScience101 is a DTU and SDC initiative to deliver simple and effective biological data science training to industry professionals and
+ academics. 
 baseurl: ""
 url: "https://biodatascience101.github.io"
 #twitter_username: morinryan
