@@ -25,3 +25,5 @@ othersite: http://biodatascience.io
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+future: true
