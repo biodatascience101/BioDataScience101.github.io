@@ -4,7 +4,7 @@ title: BioDatScience pilot workshop, March 26
 permalink: /programme_pilot/
 registration_link: https://www.forms.google.com/example
 toggle: on
-rank: 6
+rank: 5
 ---
 
 <b> <a href="{{page.event_page}}">1st Biodatascience Pilot Workshop</a></b>
@@ -34,11 +34,6 @@ All you need is a computer, a browser, and the desire to learn how to navigate t
 </p>
 </blockquote>
 
-### 2020 event calendar:
-- DTU Pilot event, Copenhagen 2020 - March 16th 2020
-- SDC Pilot event, Copenhagen 2020 - ultimo April 2020 - <i> postponed because of COVID-19 emergency</i>
-- 1st BioDataScience101 Workshop, Copenhagen - June 2020
-- BioDataScience101 Workshop, Beijing - September 2020
 
 For more information about our events, please contact Associate Professor Paolo Marcatili at **pamar@dtu.dk**.
 
