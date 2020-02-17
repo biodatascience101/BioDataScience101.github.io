@@ -12,7 +12,7 @@ rank: 3
 </div>
 -->
 
-Biodatascience101 is a Sino-Danish Center sponsored project dedicated to developing biological data science teaching materials for industry professionals and academics.
+Biodatascience101 is a project dedicated to developing biological data science teaching materials for industry professionals and academics.
 
 Our aim is to provide the teaching environment, networking opportunities and community needed to support current and aspiring data scientists in their biological data-science driven collaborative research projects.
 
