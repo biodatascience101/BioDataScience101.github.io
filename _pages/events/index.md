@@ -9,7 +9,7 @@ rank: 2
 
 
 ### 2020 event calendar:
-- <a href="{{ 'programme_pilot'| prepend: site.url }}">DTU Pilot event</a>, Copenhagen 2020 - March 16th 2020
+- <a href="https://biodatascience101.github.io/events/programme_pilot/">DTU Pilot event</a>, Copenhagen 2020 - March 16th 2020
 - SDC Pilot event, Copenhagen 2020 - ultimo April 2020 - <i> postponed because of COVID-19 emergency</i>
 - 1st BioDataScience101 Workshop, Copenhagen - June 2020
 - BioDataScience101 Workshop, Beijing - September 2020
