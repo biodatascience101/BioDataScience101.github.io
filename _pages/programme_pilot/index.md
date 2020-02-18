@@ -3,8 +3,8 @@ layout: page
 title: BioDatScience pilot workshop, March 26
 permalink: /programme_pilot/
 registration_link: https://www.forms.google.com/example
-toggle: on
-rank: 4
+toggle: off
+rank: 9
 ---
 
 <b> <a href="{{page.event_page}}">1st Biodatascience Pilot Workshop</a></b>
