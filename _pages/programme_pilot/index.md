@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BioDatScience pilot workshop, March 26
-permalink: /programme_pilot/
+permalink: /events/programme_pilot/
 registration_link: https://www.forms.google.com/example
 toggle: off
 rank: 9
