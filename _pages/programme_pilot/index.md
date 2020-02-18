@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BioDatScience pilot workshop, March 26
+title: BioDataScience pilot workshop, March 26th
 permalink: /events/programme_pilot/
 registration_link: https://www.forms.google.com/example
 toggle: off
