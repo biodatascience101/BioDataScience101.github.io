@@ -21,7 +21,7 @@ We believe that by focusing on fundamental workflows, working hands-on with scie
 The BioDataScience101 project was started in September 2019, led by Paolo Marcatili, Magnus Haraldson Høie and Andreas Fønss Møller. 
 
 <br />
-# Our team:
+# Teaching committee:
 <div class="lab-wrapper">
     <ul class="lab-list">
     <!-- Current PIs -->
