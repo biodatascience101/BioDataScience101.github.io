@@ -1,9 +1,9 @@
 <header class="site-header">
 
   <div class="wrapper">
-  
+   <img class="float-right" width="15%" src="{{ 'logo.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
     <a class="site-title" href="{{ site.baseurl }}/">
-       <img class="float-right" width="10%" src="{{ 'logo.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    
       {{ site.lab_name }}
       {% if site.institution %}
         <span class="title-institution">{{ site.institution | prepend: "  @  " }}</span>
