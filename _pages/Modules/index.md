@@ -13,7 +13,7 @@ rank: 4
     {% for project in site.data.projects %}
     {% if project.name and project.description %}
         <li>
-            <h2>{{ project.name }}</h2>
+            <h3>{{ project.name }}</h3>
             {% if project.photo %}
                 <img class="float-right projects-photo" src="{{ project.photo | prepend: site.images_dir | prepend: site.baseurl }}">
             {% endif %}
