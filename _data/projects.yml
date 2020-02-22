@@ -6,7 +6,7 @@
 #  assignees:
 #  #photo: projects/dhitsig.png
 
-- name: "Module 1: Data Exploration"
+- name: "Module 1: Data Exploration -  Biomarkers for Celebral Malaria in protein expression data"
   module: >
     Biomarkers for Celebral Malaria in protein expression data
   description: >
@@ -15,7 +15,7 @@
 
   photo: projects/module_1.png
 
-- name: "Module 2: Data Visualisation"
+- name: "Module 2: Data Visualisation - Sequence features for thermostability in proteins from extremophiles"
   module: > 
     Sequence features for thermostability in proteins from extremophiles
   description: >
