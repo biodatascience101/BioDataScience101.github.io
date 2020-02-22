@@ -2,7 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
-registration_link: https://www.forms.google.com/example
+registration_link: https://www.conferencemanager.dk/biodatascience-workshop
 toggle: on
 rank: 2
 ---
