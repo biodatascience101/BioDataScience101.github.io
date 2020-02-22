@@ -17,7 +17,7 @@ We are excited to launch our first Copenhagen Biodatascience Pilot Workshop. If 
 <br />
 All you need is a computer, a browser, and the desire to learn how to navigate through complex biological and clinical datasets to get the most out of them.
 
-<b> <a href="{{registration_link}}">Registration link: XXX </a></b>
+<b> Registration link:  <a href="{{registration_link}}">Click here </a></b>
 
 <blockquote>
     <p>
