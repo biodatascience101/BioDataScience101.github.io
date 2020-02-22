@@ -6,16 +6,18 @@
 #  assignees:
 #  #photo: projects/dhitsig.png
 
-- name: "Module 1: Introduction to data modelling"
+- name: "Module 1: Data Exploration - Biomarkers for Celebral Malaria in protein expression data"
   description: >
-    This module covers dataset handling and normalization in Pandas, PCA-analysis and statistical significance. The case covers quantification of relative protein levels in malaria-infected mice from work by Tiberti, N et al Scientific Reports 2016.
+    This module covers dataset I/O handling, modelling and normalisation in Pandas, principal component analysis and differential gene expression analysis.
+    The case data is on quantification of relative protein levels in malaria-infected mice from work by Tiberti, N et al Scientific Reports 2016.
 
 
   photo: projects/module_1.png
 
-- name: "Module 2: Biological sequence data-visualization"
+- name: "Module 2: Data Visualisation - Sequence features for thermostability in proteins from extremophiles"
   description: >
-    This module covers efficient data processing in Numpy, visualization of biological sequences and graphing in Seaborn and Matplotlib. The case covers bacterial sequence temperature data compiled by the iGEM Potsdam team, collected from the Bacterial Diversity Metadatabase and UniProt.
+    This module covers efficient data processing in Numpy, analysis and visualisation of biological sequences and graphing in Seaborn and Matplotlib.
+    The case data comes from a dataset of 7.7 million bacterial sequences with associated temperature data compiled by the iGEM Potsdam team, collected from the Bacterial Diversity Metadatabase and UniProt.
 
 
   photo: projects/module_2.png
