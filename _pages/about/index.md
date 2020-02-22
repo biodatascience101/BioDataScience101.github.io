@@ -18,7 +18,7 @@ Our aim is to provide the teaching environment, networking opportunities and com
 
 We believe that by focusing on the right fundamental workflows and working closely with real world case data, anyone aspiring to become a data scientist can accomplish their data-driven scientific goals. 
 
-The Biodatascience101 project was started in September 2019, led by Paolo Marcatili, Magnus Haraldson Høie and Andreas Fønns Møller. 
+The Biodatascience101 project was started in September 2019, led by Paolo Marcatili, Magnus Haraldson Høie and Andreas Fønss Møller. 
 
 <br />
 # Our team:
