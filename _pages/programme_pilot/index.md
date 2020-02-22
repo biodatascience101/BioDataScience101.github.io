@@ -2,7 +2,7 @@
 layout: page
 title: BioDataScience pilot workshop, March 26th
 permalink: /events/programme_pilot/
-registration_link: https://www.forms.google.com/example
+registration_link: https://www.conferencemanager.dk/biodatascience-workshop
 toggle: off
 rank: 9
 ---
