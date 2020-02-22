@@ -14,7 +14,7 @@ rank: 4
     {% if project.name and project.description %}
         <li>
             <h3>{{ project.name }}</h3>
-            <h4>{{ project.module }}</h4>
+            <!--<h4>{{ project.module }}</h4>-->
             {% if project.photo %}
                 <img class="float-right projects-photo" src="{{ project.photo | prepend: site.images_dir | prepend: site.baseurl }}">
             {% endif %}
