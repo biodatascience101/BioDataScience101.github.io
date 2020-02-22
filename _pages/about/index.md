@@ -12,7 +12,7 @@ rank: 3
 </div>
 -->
 
-BioDataScience101 is an educational project dedicated to enabling practical application of fundamental biological data science analyses for industry professionals, students and academics.
+BioDataScience101 is an educational project dedicated to enabling practical use of fundamental biological data science analyses for industry professionals, students and academics.
 
 Our aim is to provide an inspired teaching environment taught by academic and industry experts, the toolbox for fundamental workflows and the community needed to train new as well as current biological data scientists in their data-science driven collaborative research projects. 
 
