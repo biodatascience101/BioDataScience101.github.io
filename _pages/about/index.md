@@ -12,13 +12,13 @@ rank: 3
 </div>
 -->
 
-Biodatascience101 is a project dedicated to developing biological data science teaching materials for industry professionals and academics.
+BioDataScience101 is an educational project dedicated to enabling practical use of fundamental biological data science analyses for industry professionals, students and academics.
 
-Our aim is to provide the teaching environment, networking opportunities and community needed to support current and aspiring data scientists in their biological data-science driven collaborative research projects.
+Our aim is to provide an inspired teaching environment taught by academic and industry experts, the toolbox for fundamental workflows and the community needed to train new as well as current biological data scientists in their data-science driven collaborative research projects. 
 
-We believe that by focusing on the right fundamental workflows and working closely with real world case data, anyone aspiring to become a data scientist can accomplish their data-driven scientific goals. 
+We believe that by focusing on fundamental workflows, working hands-on with scientific case data and closely with academic and industry experts, anyone aspiring to become a biological data scientist can accomplish their data-driven scientific goals. 
 
-The Biodatascience101 project was started in September 2019, led by Paolo Marcatili, Magnus Haraldson Høie and Andreas Fønss Møller. 
+The BioDataScience101 project was started in September 2019, led by Paolo Marcatili, Magnus Haraldson Høie and Andreas Fønss Møller. 
 
 <br />
 # Our team:
