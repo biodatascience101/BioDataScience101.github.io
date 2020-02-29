@@ -44,7 +44,9 @@ The BioDataScience101 project was started in September 2019, led by Paolo Marcat
 
     </ul>
   <hr>
- <h1 class="post-title">This work is made possible through generous support from: </h1>
+  
+  <br>
+ <h2 class="post-title">This work is made possible through generous support from: </h2>
     <br>
     <div>
      <img class="float-left" width="100%" src="{{ 'Funding_logos.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
