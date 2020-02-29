@@ -3,7 +3,7 @@
     {% if member.photo %}
         <img class="float-left member-photo" src="{{ member.photo | prepend: site.images_dir | prepend: site.baseurl }}">
     {% endif %}
-    <p>{{ member.bio }}</p>
+    <p style="text-align:justify">{{ member.bio }}</p>
     {% if member.orcid %}
         <a href="{{ member.orcid}}"><img src="/images/team/orcid.png" width="50" height="50"/></a>
     {% endif %}
