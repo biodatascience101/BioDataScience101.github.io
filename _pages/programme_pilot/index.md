@@ -25,7 +25,7 @@ All you need is a computer, a browser, and the desire to learn how to navigate t
     <p>
 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRPb3v26QXN12kyNhSJponZf7yyGjyslH5xyaotX7-SJhkYbXytdzRZahRUQtSCP3c4V0Swpaul3S_t/pub?embedded=true" width="300"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRPb3v26QXN12kyNhSJponZf7yyGjyslH5xyaotX7-SJhkYbXytdzRZahRUQtSCP3c4V0Swpaul3S_t/pub?embedded=true" width="600"></iframe>
 
 
 <!--
