@@ -27,7 +27,7 @@ All you need is a computer, a browser, and the desire to learn how to navigate t
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRPb3v26QXN12kyNhSJponZf7yyGjyslH5xyaotX7-SJhkYbXytdzRZahRUQtSCP3c4V0Swpaul3S_t/pub?embedded=true" height="750" width="600"></iframe>
 <br>
-<b> Download the schedule as PDF: <a href="https://github.com/biodatascience101/BioDataScience101.github.io/raw/master/images/BioDataScience101-pilotworkshop.pdf">Click here.</a></b>
+<b> Download the schedule as PDF: <a href="https://github.com/biodatascience101/BioDataScience101.github.io/raw/master/images/BioDataScience101-pilotworkshop.pdf">Click here.</a></b> 
 
 
 <!--
