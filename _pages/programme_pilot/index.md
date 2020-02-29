@@ -23,14 +23,16 @@ All you need is a computer, a browser, and the desire to learn how to navigate t
 
 <blockquote>
     <p>
-        
+
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRPb3v26QXN12kyNhSJponZf7yyGjyslH5xyaotX7-SJhkYbXytdzRZahRUQtSCP3c4V0Swpaul3S_t/pub?embedded=true" width="300"></iframe>
+
+
+<!--
 <div style="margin-bottom: 50px;"> 
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRPb3v26QXN12kyNhSJponZf7yyGjyslH5xyaotX7-SJhkYbXytdzRZahRUQtSCP3c4V0Swpaul3S_t/pub?embedded=true" width="300">
-    </iframe>
-    <!--
     <img class="float-center" width="80%"  src="{{ 'schedule3.png' | prepend: site.images_dir | prepend: site.baseurl }}"/>
-    -->
 </div>
+-->
 
 </p>
 </blockquote>
