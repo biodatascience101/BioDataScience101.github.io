@@ -27,6 +27,8 @@ All you need is a computer, a browser, and the desire to learn how to navigate t
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRPb3v26QXN12kyNhSJponZf7yyGjyslH5xyaotX7-SJhkYbXytdzRZahRUQtSCP3c4V0Swpaul3S_t/pub?embedded=true" hight="1000" width="600"></iframe>
 
+<b> Download the schedule as PDF: <a href="https://www.test.com">Click here.</a></b>
+
 
 <!--
 <div style="margin-bottom: 50px;"> 
