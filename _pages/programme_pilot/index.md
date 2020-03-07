@@ -20,17 +20,7 @@ rank: 9
 
 
 The workshop schedule will be available shortly.
-<--
 
-<blockquote>
-    <p>
-        <iframe src="https://docs.google.com/document/d/e/2PACX-1vRPb3v26QXN12kyNhSJponZf7yyGjyslH5xyaotX7-SJhkYbXytdzRZahRUQtSCP3c4V0Swpaul3S_t/pub?embedded=true" height="1150" width="600"></iframe>
-        <br>
-        <b> Download the schedule as PDF: 
-            <a                                   href="https://github.com/biodatascience101/BioDataScience101.github.io/raw/master/images/BioDataScience101-pilotworkshop.pdf">Click here.</a></b> 
-    </p>
-</blockquote>
---!>
 
 For more information about our events, please contact Associate Professor Paolo Marcatili at **pamar@dtu.dk**.
 
