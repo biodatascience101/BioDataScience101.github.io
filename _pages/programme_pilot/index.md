@@ -24,7 +24,7 @@ The preliminary schedule is as:
 
 <blockquote>
     <p>
-        <iframe src="https://docs.google.com/document/d/e/2PACX-1vQDI28jeOKnA6X3X_NN7bSK2blmOGPRIsF8flEnQmRF397Q2eDZnPZVx6hLCvBB4U_B7fqLiLvO4mkB/pub?embedded=true" height="1150" width="600"></iframe>
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vQDI28jeOKnA6X3X_NN7bSK2blmOGPRIsF8flEnQmRF397Q2eDZnPZVx6hLCvBB4U_B7fqLiLvO4mkB/pub?embedded=true" height="1000" width="600"></iframe>
         <br>
         <b> Download the schedule as PDF: 
             <a                                   href="https://github.com/biodatascience101/BioDataScience101.github.io/raw/master/images/BioDataScience101-pilotworkshop.pdf">Click here.</a></b> 
