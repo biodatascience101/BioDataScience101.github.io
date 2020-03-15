@@ -46,11 +46,41 @@ The BioDataScience101 project was started in September 2019, led by Paolo Marcat
     </ul>
   <hr>
   
-  <br>
- <h3 class="center">This work is made possible through generous support from: </h3>
-    <br>
-    <div>
-     <img class="center" width="90%" src="{{ 'Funding_logos.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+<style>
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
 
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+  
+</style>
+
+ <br>
+ <h3 class="center">This work is made possible through generous support from: </h3>
+   <br>
+   <div>
+       <h3 class="center">This work is made possible through generous support from: </h3>
+         <div class="row"> 
+          <div class="column">
+            <img src="{{ 'DTU.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+           </div>
+          <div class="column">
+            <img src="{{ 'DTU.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+            <img src="{{ 'Logo_Danish_helthtech.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+            <img src="{{ 'Logo_welfare_tech.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+            <img src="{{ 'Logo_EU.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+        </div> 
     </div>
+   </div>
 </div>
