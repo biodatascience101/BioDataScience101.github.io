@@ -1,7 +1,41 @@
+<style>
+  .row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+  
+</style>
+
 <footer class="site-footer">
 
   <div class="wrapper">
 
+    <div> 
+       <h3 class="center">This work is made possible through generous support from: </h3>
+      
+        <div class="column">
+          <img src="{{ 'DTU.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+          <img src="{{ 'Logo_Danish_helthtech.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
+          <img src="{{ 'Logo_welfare_tech.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+          <img src="{{ 'Logo_EU.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+        </div> 
+      </div>   
+      
+    </div>
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <p>{{ site.description }}</p>
