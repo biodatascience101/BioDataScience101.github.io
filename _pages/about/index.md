@@ -51,10 +51,10 @@ The BioDataScience101 project was started in September 2019, led by Paolo Marcat
  <h3 class="center">This work is made possible through generous support from: </h3>
    <br>
     <div class="row"> 
-      <div class="column">
+      <div class="column_left">
         <img src="{{ 'DTU.png' | prepend: site.images_dir | prepend: site.baseurl }}">
        </div>
-       <div class="column">
+       <div class="column_right">
          <img src="{{ 'Logo_Danish_helthtech.jpg' | prepend: site.images_dir | prepend: site.baseurl }}">
          <img src="{{ 'Logo_welfare_tech.png' | prepend: site.images_dir | prepend: site.baseurl }}">
          <img src="{{ 'Logo_EU.png' | prepend: site.images_dir | prepend: site.baseurl }}">
