@@ -58,13 +58,13 @@ The BioDataScience101 project was started in September 2019, led by Paolo Marcat
        </div>
        <div class="column_right">
          <a href="https://danishhealthtech.dk">
-         <img src="{{ 'Logo_Danish_helthtech.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+         <img src="{{ 'Logo_Danish_helthtech.png' | prepend: site.images_dir | prepend: site.baseurl }}"  width="200%">
          </a>
          <a href="https://www.welfaretech.dk">
-         <img src="{{ 'Logo_welfare_tech.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+         <img src="{{ 'Logo_welfare_tech.png' | prepend: site.images_dir | prepend: site.baseurl }}"  width="200%">
          </a>
          <a href="https://ec.europa.eu/regional_policy/da/funding/erdf/">
-         <img src="{{ 'Logo_EU.png' | prepend: site.images_dir | prepend: site.baseurl }}">
+         <img src="{{ 'Logo_EU.png' | prepend: site.images_dir | prepend: site.baseurl }}"  width="200%">
          </a>
         </div> 
     </div>
