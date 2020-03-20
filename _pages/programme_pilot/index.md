@@ -7,7 +7,7 @@ toggle: off
 rank: 9
 ---
 
-<b>When:</b> March 26, 2020  from 09.00 to 17.30
+<b>When:</b> March 26, 2020  from 09.30 to 15.00
 <br>
 <b>Where:</b> Due to the COVID-19 outbreak, the workshop will be helt in the form of a webinar
 <br>
