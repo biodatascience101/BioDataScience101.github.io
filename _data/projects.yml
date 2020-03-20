@@ -6,7 +6,7 @@
 #  assignees:
 #  #photo: projects/dhitsig.png
 
-- name: "Module 1: Data Exploration -  Biomarkers for Celebral Malaria in protein expression data"
+- name: "Module 1: Data Exploration -  Biomarkers for cerebral Malaria in protein expression data"
   description: >
     This module covers dataset I/O handling, modelling and normalisation in Pandas, principal component analysis and differential gene expression analysis.
     The case data is on quantification of relative protein levels in malaria-infected mice from work by <a href="https://www.nature.com/articles/srep37871">Tiberti, N et al Scientific Reports 2016.</a>
