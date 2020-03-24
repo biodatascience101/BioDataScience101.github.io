@@ -5,15 +5,6 @@ permalink: /server/
 toggle: on
 rank: 5
 ---
-<br>
-<div style="margin-bottom: 50px;">
-  <p>
-    <a href="https://www.biodatascience.io">
-      <img  class="float-center" src="{{ 'JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" width="50%">
-    </a>
-  </p>
-</div>
-<h3> <a href="https://www.biodatascience.io">Connect to Jupyterhub main server (biodatascience.io)</a> </h3>
 
 <br>
 #### The JupyterHub web-servers can currently be accessed at:
@@ -22,3 +13,12 @@ rank: 5
   - **Server 3:** ec2-17-193-39-192.eu-west-3.compute.amazonaws.com (offline)
 
 Please contact your class instructor for your username and password. 
+
+<br>
+<div style="margin-bottom: 50px;">
+  <p>
+    <a href="https://www.biodatascience.io">
+      <img  class="float-center" src="{{ 'JH.png' | prepend: site.images_dir | prepend: site.baseurl }}" width="50%">
+    </a>
+  </p>
+</div>
