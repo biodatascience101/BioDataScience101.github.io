@@ -16,7 +16,12 @@ rank: 9
  <br>
  <p style="text-align:justify">All you need is a computer, a browser, and the desire to learn how to navigate through complex biological and clinical datasets to get the most out of them.</p>
 
-<b> Registration link:  <a href="https://www.conferencemanager.dk/biodatascience-workshop">Click here </a></b>
+<b> To join the zoom webinar:  <a href=" https://zoom.us/j/270125787?pwd=VVNjK1I0VFkrcVZDWSs0Uy82b3o2QT09 ">Click here </a></b>
+The zoom password has been send to registrered all participants by e-mail. 
+If you are having any problems please contact: 
+
+
+<<!--<b> Registration link:  <a href="https://www.conferencemanager.dk/biodatascience-workshop">Click here </a></b>-->
 
 
 The preliminary schedule is as:
