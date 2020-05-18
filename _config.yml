@@ -10,8 +10,9 @@ description:
  academics. 
 baseurl: ""
 url: "https://biodatascience101.github.io"
-#twitter_username: morinryan
+twitter_username: Biodatascience1
 github_username:  biodatascience101
+facebook_username: 
 images_dir: "/images/"
 
 # Build settings
