@@ -26,7 +26,7 @@ If you are having any inquiries please contact: biodatascience101@gmail.com
 
 
 <!--<b> Registration link:  <a href="https://www.conferencemanager.dk/biodatascience-workshop">Click here </a></b>-->
-
+<!--
 
 The preliminary schedule is as:
 
@@ -40,7 +40,7 @@ The preliminary schedule is as:
     </p>
 </blockquote>
 
-
+-->
 For more information about our events, please contact Associate Professor Paolo Marcatili at **pamar@dtu.dk**.
 
 
