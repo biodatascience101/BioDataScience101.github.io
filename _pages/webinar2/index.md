@@ -20,10 +20,9 @@ In this module we will guide you through preprocessing and design of multiple ma
 
 
 <b> To join the zoom webinar: </b> TBA 
+
 <br>
-The zoom password has been send to registrered all participants by e-mail. 
-<br>
-If you are having any problems please contact: biodatascience101@gmail.com
+If you are having any inquiries please contact: biodatascience101@gmail.com
 
 
 <!--<b> Registration link:  <a href="https://www.conferencemanager.dk/biodatascience-workshop">Click here </a></b>-->
