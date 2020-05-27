@@ -25,6 +25,8 @@ In this module we will guide you through preprocessing and design of multiple ma
 If you are having any inquiries please contact: biodatascience101@gmail.com
 
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV9ifFviORL0Smqukdz6RvEgjg0TUgcWBZOyFI6Kz5wWHp4A/viewform?embedded=true" width="640" height="1779" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 <!--<b> Registration link:  <a href="https://www.conferencemanager.dk/biodatascience-workshop">Click here </a></b>-->
 <!--
 
