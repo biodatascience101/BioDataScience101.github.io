@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BioDataScience pilot workshop, March 26th
-permalink: /events/Next_Event/
+permalink: /events/signup/
 registration_link: 
 toggle: off
 rank: 10
