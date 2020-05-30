@@ -7,7 +7,7 @@ toggle: off
 rank: 9
 ---
 
-<b>When:</b> TBA: Beginning of June, 2020.
+<b>When:</b> June 17th, 2020.
 <br>
 <b>Where:</b> The webinar will be hosted on zoom. 
 <br>
