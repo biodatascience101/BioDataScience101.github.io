@@ -23,6 +23,10 @@ In this module we will guide you through preprocessing and design of multiple ma
 
 To sign up, fill out the form <b> <a href="https://biodatascience101.github.io/events/signup/">here. </a></b>
 
+
+<button type="button" class="btn btn-primary">Test button</button>
+
+
 If you are having problems, the sign up sheet can also be found <b> <a href="https://forms.gle/zNsQGDRHEZT32AP56">here. </a></b>
 <br>
 If you are having any inquiries please contact: biodatascience101@gmail.com
