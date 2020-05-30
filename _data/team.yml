@@ -15,21 +15,21 @@
   
   photo: team/paolo_img.jpg
 
-- name: Anders Gorm Pedersen, PhD
-  is_pi: False
-  is_current: True
-  position: Professor
-  orcid:  https://orcid.org/0000-0001-9650-8965
-  scholar: https://scholar.google.dk/citations?user=iANj4KkAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Anders_Pedersen4
-  #github: https://github.com/
- # twitter: https://twitter.com/
-  bio: >
-    Anders Gorm Pedersen is a professor and head of section of Bioinformatics at DTU Health Tech.
-    His work focuses on Bayesian statistical modelling, microbiome analysis and genome-wide association studies,
-    and molecular evolution of pathogenic organism.
-
-  photo: team/anders_profile2.jpg
+#- name: Anders Gorm Pedersen, PhD
+#  is_pi: False
+#  is_current: True
+#  position: Professor
+#  orcid:  https://orcid.org/0000-0001-9650-8965
+#  scholar: https://scholar.google.dk/citations?user=iANj4KkAAAAJ&hl=en
+#  researchgate: https://www.researchgate.net/profile/Anders_Pedersen4
+#  #github: https://github.com/
+# # twitter: https://twitter.com/
+#  bio: >
+#    Anders Gorm Pedersen is a professor and head of section of Bioinformatics at DTU Health Tech.
+#    His work focuses on Bayesian statistical modelling, microbiome analysis and genome-wide association studies,
+#    and molecular evolution of pathogenic organism.
+#
+#  photo: team/anders_profile2.jpg
 
 - name: Magnus Haraldson Høie
   is_pi: False
