@@ -20,9 +20,8 @@ In this module we will guide you through preprocessing and design of multiple ma
 
 <br>
 
-b> Next event: <a href="{{page.sign_up}}">2st Biodatascience Pilot webinar. Beginning of June, 2020 </a></b>
 
-To sign up, fill out the form <b> <a href="{{page.sign_up}}">here. </a></b>
+To sign up, fill out the form <b> <a href="{{page.signup}}">here. </a></b>
 
 If you are having problems, the sign up sheet can also be found <b> <a href="https://forms.gle/zNsQGDRHEZT32AP56">here. </a></b>
 <br>
