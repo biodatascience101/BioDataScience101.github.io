@@ -18,8 +18,11 @@ rank: 9
 
 In this module we will guide you through preprocessing and design of multiple machine-learning prediction models based on imaging features of tumor fine needle aspirates. We will perform exploratory data analysis of the clinical dataset, cover key steps and decisions in preprocessing, undergo comprehensive comparison of different machine learning architectures and finally evaluate all our trained models. This module, like all our modules, focuses on visual understanding of decisions we make and use of workflows that will apply to any dataset.
 
+<br>
 
-To sign up, fill out the form <b> <a href="https://forms.gle/zNsQGDRHEZT32AP56">here. </a></b>
+b> Next event: <a href="{{page.sign_up}}">2st Biodatascience Pilot webinar. Beginning of June, 2020 </a></b>
+
+To sign up, fill out the form <b> <a href="{{page.sign_up}}">here. </a></b>
 
 If you are having problems, the sign up sheet can also be found <b> <a href="https://forms.gle/zNsQGDRHEZT32AP56">here. </a></b>
 <br>
