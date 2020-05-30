@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Signup sheet BioDataScience101 online workshop, June 17th.
-permalink: /events/signup/
+permalink: /events/Next_Event/signup/
 registration_link: 
 toggle: off
 rank: 10
