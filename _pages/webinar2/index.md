@@ -29,7 +29,7 @@ In this module we will guide you through preprocessing and design of multiple ma
         <iframe src="https://docs.google.com/document/d/e/2PACX-1vRYJDhpFK1WlGB60eOwvdVCZTt9RE5qXD8d6ro0ru1xZhJ-8KzlziLNQRlnpcMiljX8L16rIpd0xGcj/pub?embedded=true" height="900" width="600"></iframe>
         <br>
         <b> Download the schedule as PDF: 
-            <a                                   href="https://github.com/biodatascience101/BioDataScience101.github.io/raw/master/images/BioDataScience101-pilotworkshop.pdf">Click here.</a></b> 
+            <a                                   href="https://github.com/biodatascience101/BioDataScience101.github.io/raw/master/images/Workshop3_promo.pdf">Click here.</a></b> 
     </p>
 </blockquote>
 
