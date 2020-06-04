@@ -19,17 +19,14 @@ rank: 9
 In this module we will guide you through preprocessing and design of multiple machine-learning prediction models based on imaging features of tumor fine needle aspirates. We will perform exploratory data analysis of the clinical dataset, cover key steps and decisions in preprocessing, undergo comprehensive comparison of different machine learning architectures and finally evaluate all our trained models. This module, like all our modules, focuses on visual understanding of decisions we make and use of workflows that will apply to any dataset.
 
 
-<a href="https://biodatascience101.github.io/events/signup/" class="btn btn-default" role="button">Sign up to this event!</a>
-
-
 <br>
-If you are having problems, the sign up sheet can also be found <b> <a href="https://forms.gle/zNsQGDRHEZT32AP56">here. </a></b>
+Registration for the event <b> <a href="https://forms.gle/zNsQGDRHEZT32AP56">here! </a></b>
 <br>
 If you are having any inquiries please contact: biodatascience101@gmail.com
 
 
 <!--<b> Registration link:  <a href="https://www.conferencemanager.dk/biodatascience-workshop">Click here </a></b>-->
-<!--
+
 
 The preliminary schedule is as:
 
@@ -43,7 +40,6 @@ The preliminary schedule is as:
     </p>
 </blockquote>
 
--->
 For more information about our events, please contact Associate Professor Paolo Marcatili at **pamar@dtu.dk**.
 
 
