@@ -35,7 +35,11 @@ In this module we will guide you through preprocessing and design of multiple ma
 
 
 <br>
+<br>
+
 Registration for the event <b> <a href="https://forms.gle/zNsQGDRHEZT32AP56">here! </a></b>
+<br>
+<br>
 <br>
 If you are having any inquiries please contact: biodatascience101@gmail.com
 
