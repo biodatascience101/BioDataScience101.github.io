@@ -20,7 +20,7 @@ In this module we will guide you through preprocessing and design of multiple ma
 
 
 
-The preliminary schedule is as:
+<b> The preliminary schedule is as: </b>
 
 
 <blockquote>
