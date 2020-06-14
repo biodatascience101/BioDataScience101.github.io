@@ -20,7 +20,6 @@ markdown: kramdown
 include: ["_pages"]
 permalink: /:title/
 othersite: http://biodatascience.io/
-# serverlink: https://www.biodatascience101.io
 
 #plugins for search engine optimization
 plugins:
