@@ -17,6 +17,8 @@
   description: >
     This module covers efficient data processing in Numpy, analysis and visualisation of biological sequences and graphing in Seaborn and Matplotlib.
     The case data comes from a dataset of 7.7 million bacterial sequences with associated temperature data compiled by the <a href="https://www.kaggle.com/igempotsdam/protein-heat-resistance-dataset">iGEM Potsdam team for Kaggle</a>, collected from the Bacterial Diversity Metadatabase and UniProt.
+    
+    <b>This notebook can be viewed here: <a href="https://github.com/biodatascience101/BioDataScience101.github.io/blob/master/notebooks/Module_2_Sequence_DataVisualization__public_MH_AFS.ipynb"</a> </b>
 
   photo: projects/module_2.png
   
