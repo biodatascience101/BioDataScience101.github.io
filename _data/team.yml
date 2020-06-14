@@ -15,29 +15,10 @@
   
   photo: team/paolo_img.jpg
 
-#- name: Anders Gorm Pedersen, PhD
-#  is_pi: False
-#  is_current: True
-#  position: Professor
-#  orcid:  https://orcid.org/0000-0001-9650-8965
-#  scholar: https://scholar.google.dk/citations?user=iANj4KkAAAAJ&hl=en
-#  researchgate: https://www.researchgate.net/profile/Anders_Pedersen4
-#  #github: https://github.com/
-# # twitter: https://twitter.com/
-#  bio: >
-#    Anders Gorm Pedersen is a professor and head of section of Bioinformatics at DTU Health Tech.
-#    His work focuses on Bayesian statistical modelling, microbiome analysis and genome-wide association studies,
-#    and molecular evolution of pathogenic organism.
-#
-#  photo: team/anders_profile2.jpg
-
 - name: Magnus Haraldson Høie
   is_pi: False
   is_current: True
   position: PhD Student
-  #orcid:  https://orcid.org/
-  #scholar: https://scholar.google.ca/citations?hl=en&user=
-  #researchgate: https://www.researchgate.net/profile/
   github: https://github.com/Magnushhoie
   twitter: https://twitter.com/magnushoie
   bio: >
@@ -52,21 +33,8 @@
   is_current: True
   position: Research Assistant
   orcid:  https://orcid.org/0000-0002-4073-5568
-  #scholar: https://scholar.google.ca/citations?hl=en&user=
-  #researchgate: https://www.researchgate.net/profile/
   github: https://github.com/foenssmoeller
-  #twitter: https://twitter.com/
   bio: >
     Andreas is a bioinformatician with extensive experience on single-cell RNA-sequencing and
     generative-adverserial networks. He currently works as a research assistant at the University of Southern Denmark.
   photo: team/andreas_profile.jpg
-
-#- name: ZZZ
-#  is_pi: False
-#  is_current: True
-#  position: Research Associate
-#  researchgate: ZZZ
-#  scholar: ZZZ
-#  bio: >
-#    ZZZ
-#  photo: team/xxx
