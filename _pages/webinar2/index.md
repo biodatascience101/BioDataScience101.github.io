@@ -1,13 +1,13 @@
 ---
 layout: page
-title: BioDataScience pilot workshop, June 23rd
+title: BioDataScience pilot workshop, June 30th
 permalink: /events/Next_Event/
 registration_link: 
 toggle: off
 rank: 9
 ---
 
-<b>When:</b> June 23rd, 2020.
+<b>When:</b> June 30th, 2020.
 <br>
 <b>Where:</b> The webinar will be hosted on zoom. 
 <br>
