@@ -37,7 +37,7 @@ In this module we will guide you through preprocessing and design of multiple ma
 <br>
 <br>
 
-<a href="https://forms.gle/zNsQGDRHEZT32AP56"><h2>Registration for the event here! </h2></a>
+<h2><a href="https://forms.gle/zNsQGDRHEZT32AP56">Registration for the event here! </a></h2>
 <br>
 <br>
 <br>
