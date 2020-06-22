@@ -7,7 +7,7 @@ toggle: off
 rank: 9
 ---
 
-<b>When:</b> June 30th 0900-1230 CET, 2020.
+<b>When:</b> June 30th 2020, from 0900 - 1230 CET.
 <br>
 <b>Where:</b> The webinar will be hosted on Zoom. 
 <br>
