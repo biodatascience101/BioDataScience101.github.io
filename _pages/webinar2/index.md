@@ -20,7 +20,7 @@ In this module we will guide you through preprocessing and design of multiple ma
 
 
 
-<b> The schedule is: </b>
+<b> Program: </b>
 
 
 <blockquote>
