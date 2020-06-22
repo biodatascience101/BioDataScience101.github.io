@@ -7,9 +7,9 @@ toggle: off
 rank: 9
 ---
 
-<b>When:</b> June 30th, 2020.
+<b>When:</b> June 30th 0900-1230 CET, 2020.
 <br>
-<b>Where:</b> The webinar will be hosted on zoom. 
+<b>Where:</b> The webinar will be hosted on Zoom. 
 <br>
 <p style="text-align:justify">We are excited to launch our second Biodatascience Online Workshop. If you are working with biological and clinical data, and you want to learn how to apply predictive modelling, you need to attend our workshop. </p>
  <br>
