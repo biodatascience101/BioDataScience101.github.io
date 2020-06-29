@@ -10,8 +10,8 @@ rank: 2
 
 ### 2020 event calendar:
 - <a href="https://biodatascience101.github.io/events/programme_pilot/">DTU Pilot event</a>, Copenhagen - March 26th 2020
-- <a href="https://biodatascience101.github.io/events/Next_Event/">2nd BioDataScience Webinar</a> - June 30th 2020
-- 3rd BioDataScience Workshop, Beijing - September 2020
+- <a href="https://biodatascience101.github.io/events/Next_Event/">2nd Biodatascience101 Workshop</a> - June 30th 2020
+- 3rd Biodatascience101 Workshop - September 2020
 
 For more information about our events, please contact Associate Professor Paolo Marcatili at **pamar@dtu.dk**.
 
