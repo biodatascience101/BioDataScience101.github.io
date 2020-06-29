@@ -9,7 +9,7 @@ rank: 9
 
 <b>When:</b> June 30th 2020, from 0900 - 1230 CET.
 <br>
-<b>Where:</b> The webinar will be hosted on Zoom. 
+<b>Where:</b> The webinar will be hosted on <a href="https://forms.gle/zNsQGDRHEZT32AP56">Zoom.</a>
 <br>
 <p style="text-align:justify">We are excited to launch our second Biodatascience Online Workshop. If you are working with biological and clinical data, and you want to learn how to apply predictive modelling, you need to attend our workshop. </p>
  <br>
@@ -18,6 +18,8 @@ rank: 9
 
 In this module we will guide you through preprocessing and design of multiple machine-learning prediction models based on imaging features of tumor fine needle aspirates. We will perform exploratory data analysis of the clinical dataset, cover key steps and decisions in preprocessing, undergo comprehensive comparison of different machine learning architectures and finally evaluate all our trained models. This module, like all our modules, focuses on visual understanding of decisions we make and use of workflows that will apply to any dataset.
 
+
+<b> To join the zoom webinar:  <a href="https://us02web.zoom.us/j/83697621567">Click here </a></b>
 
 
 <b> Program: </b>
