@@ -13,7 +13,7 @@ rank: 3
 <p style="text-align:justify">
 -->
 <p style="text-align:justify">
-BioDataScience101 is an educational project dedicated to enabling practical use of fundamental biological data science analyses for industry professionals, students and academics.
+Biodatascience101 is an educational project dedicated to enabling practical use of fundamental biological data science analyses for industry professionals, students and academics.
 <br>
 Our aim is to provide an inspired teaching environment taught by academic and industry experts, the toolbox for fundamental workflows and the community needed to train new as well as current biological data scientists in their data-science driven collaborative research projects. 
 <br>
@@ -48,7 +48,7 @@ The BioDataScience101 project was started in September 2019, led by Paolo Marcat
   
 
  <br>
- <h3 class="center">This work is made possible through generous support from: </h3>
+ <h4 class="center">This work is made possible through generous support from: </h4>
    <br>
     <div class="row"> 
       <div class="column_left">
