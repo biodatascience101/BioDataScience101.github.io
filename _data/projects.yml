@@ -1,3 +1,6 @@
+- name: "To download the module Jupyter notebooks, please see this <a href="https://github.com/Magnushhoie/Biodatascience101_notebooks"> <b>Github repository</b> </a>"
+
+
 - name: "Module 1: Data Exploration -  Biomarkers for cerebral Malaria in protein expression data"
   description: >
     This module covers dataset I/O handling, modelling and normalisation in Pandas, principal component analysis and differential gene expression analysis.
