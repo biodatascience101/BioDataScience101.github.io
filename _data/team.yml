@@ -18,24 +18,38 @@
 - name: Magnus Haraldson Høie
   is_pi: False
   is_current: True
-  position: Research Assistant
+  position: PhD student
   orcid:  http://opig.stats.ox.ac.uk/members
   github: https://github.com/Magnushhoie
   twitter: https://twitter.com/magnushoie
   bio: >
-    Magnus is a bioinformatician with experience within immunoinformatics,
-    next-generation sequencing analysis and machine-learning on protein structures. He currently works on prediction of
-    protein-variant effects from high-throughput experiments at the Linderstrøm-Lang centre for protein research.
+    Magnus is a deep-learning and immunoinformatics PhD student at the Technical University of Denmark.
+    He has previously published tools for protein secondary structure prediction (NetSurfP-3.0),
+    B-cell epitope (DiscoTope-3.0, BepiPred-3.0) and T-cell receptor binding prediction. 
     
   photo: team/magnus_profile3.jpg
   
 - name: Andreas Fønss Møller
   is_pi: False
   is_current: True
-  position: Research Assistant
+  position: PhD student
   orcid:  https://orcid.org/0000-0002-4073-5568
   github: https://github.com/foenssmoeller
   bio: >
     Andreas is a bioinformatician with extensive experience on single-cell RNA-sequencing and
     generative-adverserial networks. He currently works as a research assistant at the University of Southern Denmark.
   photo: team/andreas_profile.jpg
+
+- name: Tobias Hegelund Olsen
+  is_pi: False
+  is_current: True
+  position: PhD student
+  orcid:  http://opig.stats.ox.ac.uk/members
+  github: https://github.com/Magnushhoie
+  twitter: https://twitter.com/magnushoie
+  bio: >
+    Tobias is an experienced bioinformatician specializing in immunoinformatics and machine learning.
+    He is currently pursuing his PhD at the University of Oxford,
+    where he is engaged in the design of therapeutic antibodies utilizing machine learning techniques.
+
+  photo: team/tobias_profile.jpg
